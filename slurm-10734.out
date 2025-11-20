@@ -1,0 +1,8 @@
+rm *.o
+rm mergesort_seq
+g++ -O3 -std=c++17 -fPIC -g   -c -o mergesort_seq.o mergesort_seq.cpp
+g++  mergesort_seq.o  -o mergesort_seq
+1.04822
+1.05837
+1.0594
+1.05875

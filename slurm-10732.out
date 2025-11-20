@@ -1,0 +1,5 @@
+g++  mergesort_seq.o  -o mergesort_seq
+0.0899605
+0.0917823
+0.0917339
+0.0917468
